@@ -1,0 +1,33 @@
+.container{
+	padding: 20px;
+}
+
+.tab{
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 12px;
+}
+
+.tab__item{
+	display: none;
+}
+
+.form{
+	margin-top: 30px;
+}
+
+.form-control{
+	margin-bottom: 20px;
+}
+
+.tooltipe{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 6px 15px;
+	box-shadow: 1px 1px 1px rgba( 0, 0, 0, 0.5);
+	opacity: 0;
+	transition: 0.9s linear;
+	/*position: absolute;
+	right: 0;*/
+}
+
